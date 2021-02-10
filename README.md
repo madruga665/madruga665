@@ -1,4 +1,5 @@
 ### Luciano Amâncio (**Madruga**)
+![](https://komarev.com/ghpvc/?username=madruga665&color=fd418d)
 
 Estudante de desemvolvimento web na **Trybe** :green_heart: **#vqv**!!!
 
