@@ -1,7 +1,7 @@
 ### Luciano Amâncio (**Madruga**)
 ![](https://komarev.com/ghpvc/?username=madruga665&color=fd418d)
 
-Estudante de desemvolvimento web na **Trybe** :green_heart: **#vqv**!!!
+Estudante de desenvolvimento web na **Trybe** :green_heart: **#vqv**!!!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madruga665&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
 
