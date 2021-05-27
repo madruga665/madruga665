@@ -14,15 +14,15 @@
 
 ### **Linguagens e Tecnologias**
 
-<p aling="left">
+<div aling="left">
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
-  <img src="https://img.icons8.com/material-sharp/48/000000/github.png"/>
+  <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png"/>
   <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
   <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
-</p>
+</div>
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madruga665&theme=radical)](https://github.com/anuraghazra/github-readme-stats)   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=madruga665&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madruga665&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=madruga665&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
