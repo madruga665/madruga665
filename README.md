@@ -22,6 +22,7 @@
   <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
   <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
   <img src="https://img.icons8.com/color/48/000000/redux.png"/>
+  <img width="48" height="48" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.cb8046c163f77190406dfbf4dec89848.svg"/>
 </div>
 
 ---
@@ -31,3 +32,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=madruga665&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![madruga665's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=madruga665&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
