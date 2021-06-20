@@ -1,4 +1,4 @@
-# Luciano Amâncio (**Madruga**)
+# Luciano Amâncio (**Madruga**) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
 ![](https://komarev.com/ghpvc/?username=madruga665&color=fd418d)
 
 - 🤓️ Olá meu nome é **Luciano Amâncio**, tenho 34 e anos sou estudante de desenvolvimento web!
