@@ -23,6 +23,7 @@
   <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
   <img src="https://img.icons8.com/color/48/000000/redux.png"/>
   <img width="48" height="48" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.cb8046c163f77190406dfbf4dec89848.svg"/>
+  <img width="48" height="48"  src="https://miro.medium.com/max/652/1*N0XV3gco7Ed4brMoxwdjVg.png"/>
 </div>
 
 ---
