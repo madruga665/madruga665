@@ -4,8 +4,8 @@
 
 - 🤓️ Olá meu nome é **Luciano Amâncio**, tenho 34 e anos sou estudante de desenvolvimento web!
 - 💚️ Estudo na **Trybe**, um escola de programação que prepara pessoas para o mercado de trabalho.
-- 👨‍💻️ Atualmente estou estudando Front-end, onde estou aprendendo html, css, Javascript, e React.
-- 🌝️ Meu proximo passo é iniciar os estudos em Back-end.
+- 👨‍💻️ Atualmente no *Front-end* estou estudando **Typescript** e **Nextjs** no *Back-end* estou estudando banco de dados (**MySQL** e **Mongodb**). 
+- 🌝️ Meu proximo passo é iniciar os estudos em **Nodejs**.
 - 📫 Meu email é luciano.amancio@outlook.com, fique a vontade para entrar em contato.
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/luciano-amâncio/)
@@ -25,6 +25,8 @@
   <img src="https://img.shields.io/badge/redux-764abc.svg?&style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/tailwind-61DBFB.svg?&style=for-the-badge&logo=tailwindcss&logoColor=black" />
   <img src="https://img.shields.io/badge/styled--components-D57F77.svg?&style=for-the-badge&logo=styled-components&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00758F.svg?&style=for-the-badge&logo=MySQL&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mongodb-3FA037.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
 
 ---
