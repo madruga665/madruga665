@@ -13,7 +13,7 @@
 [<img src="https://img.shields.io/badge/portifolio-%237159?&style=for-the-badge&logo=github">](https://madruga665.vercel.app/)
 
 ---
-## **Linguagens e Tecnologias**
+## **Linguagens e Tecnologias** <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> 
 
 <div aling="left">
   <img src="https://img.shields.io/badge/windows-4169e1.svg?&style=for-the-badge&logo=windows&logoColor=white" />
