@@ -34,11 +34,8 @@
 </div>
 
 ---
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madruga665&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![wakatime](https://wakatime.com/badge/user/aa5f2a22-7fee-4dc5-b2ac-34791cf3e1ee.svg)](https://wakatime.com/@aa5f2a22-7fee-4dc5-b2ac-34791cf3e1ee)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=madruga665&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![wakatime](https://wakatime.com/badge/user/aa5f2a22-7fee-4dc5-b2ac-34791cf3e1ee.svg)](https://wakatime.com/@aa5f2a22-7fee-4dc5-b2ac-34791cf3e1ee)
-
-[![madruga665's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=madruga665&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madruga665&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
