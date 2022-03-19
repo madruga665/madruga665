@@ -6,7 +6,7 @@
 - 👨‍💻️ Atualmente estou focado no *Front-end*, estudando **Typescript** e **Material UI**.
 - 📫 Meu email é luciano.amancio@outlook.com, fique a vontade para entrar em contato.
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.*linkedin.com/in/luciano-amâncio/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/luciano-amâncio/)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/madruga665/) 
 [<img src="https://img.shields.io/badge/portifolio-%237159?&style=for-the-badge&logo=github">](https://madruga665.vercel.app/)
 
