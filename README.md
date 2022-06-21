@@ -1,4 +1,4 @@
-# Luciano Amâncio (**Madruga**) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
+# Luciano Amâncio (**Madruga**) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 
 ![](https://komarev.com/ghpvc/?username=madruga665&color=fd418d)
 
@@ -11,7 +11,7 @@
 [<img src="https://img.shields.io/badge/portifolio-%237159?&style=for-the-badge&logo=github">](https://madruga665.vercel.app/)
 
 ---
-## **Linguagens e Tecnologias** <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> 
+## **Linguagens e Tecnologias** <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> 
 
 <div aling="left">
   <img src="https://img.shields.io/badge/windows-4169e1.svg?&style=for-the-badge&logo=windows&logoColor=white" />
