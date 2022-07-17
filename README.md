@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=madruga665&color=fd418d)
 
 - 🤓️ Olá meu nome é **Luciano Amâncio**, tenho 35 anos e sou desenvolvedor web formado pela **Trybe**!
-- 👨‍💻️ Atualmente estou focado no *Front-end*, estudando **Typescript** e **Material UI**.
+- 👨‍💻️ Atualmente estou focado no *Front-end*, estudando **Typescript**, **Angular** e **Vue.Js**.
 - 📫 Meu email é luciano.amancio@outlook.com, fique a vontade para entrar em contato.
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/luciano-amâncio/)
@@ -23,6 +23,7 @@
   <img src="https://img.shields.io/badge/javascript-F0DB4F.svg?&style=for-the-badge&logo=javascript&logoColor=323330" />
   <img src="https://img.shields.io/badge/typescript-2F74C0.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/react-61DBFB.svg?&style=for-the-badge&logo=react&logoColor=323330" />
+  <img src="https://img.shields.io/badge/vuejs-4FC08D.svg?&style=for-the-badge&logo=vue.js&logoColor=fff" />
   <img src="https://img.shields.io/badge/redux-764abc.svg?&style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/Material UI-0079F2.svg?&style=for-the-badge&logo=mui&logoColor=white" />
   <img src="https://img.shields.io/badge/styled--components-D57F77.svg?&style=for-the-badge&logo=styled-components&logoColor=white" />
