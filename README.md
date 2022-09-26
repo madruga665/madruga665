@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=madruga665&color=fd418d)
 
 - 🤓️ Olá meu nome é **Luciano Amâncio**, tenho 35 anos e sou desenvolvedor web formado pela **Trybe**!
-- 👨‍💻️ Atualmente estou focado no *Front-end*, estudando **Typescript**, **Angular** e **Vue.Js**.
+- 👨‍💻️ Atualmente trabalho como desenvolvedor de software na [Remessa Online](https://www.remessaonline.com.br).
 - 📫 Meu email é luciano.amancio@outlook.com, fique a vontade para entrar em contato.
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/luciano-amâncio/)
