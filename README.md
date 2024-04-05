@@ -18,6 +18,7 @@
 <div aling="left">
   <img src="https://img.shields.io/badge/git-F1502F.svg?&style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/github-211F1F.svg?&style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker-1d63ed.svg?&style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/html-F1502F.svg?&style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css-2965f1.svg?&style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-F0DB4F.svg?&style=for-the-badge&logo=javascript&logoColor=323330" />
