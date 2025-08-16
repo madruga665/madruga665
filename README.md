@@ -5,7 +5,6 @@
 - 🤓️ Olá meu nome é **Luciano Amâncio**, tenho 38 anos e sou desenvolvedor web!
 - 👨‍💻️ Atualmente trabalho como desenvolvedor de software na [Remessa Online](https://www.remessaonline.com.br).
 - 🎓 Estou cursando **Ciência da Computação** na Faculdade Descomplica!
-- 📕 Estudando golang e clean architecture.
 - 📫 Meu email é luciano.amancio@outlook.com, fique a vontade para entrar em contato.
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/luciano-amâncio/)
