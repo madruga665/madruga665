@@ -3,7 +3,6 @@
 ![](https://komarev.com/ghpvc/?username=madruga665&color=fd418d)
 
 - 🤓️ Olá meu nome é **Luciano Amâncio**, tenho 38 anos e sou desenvolvedor web!
-- 👨‍💻️ Atualmente trabalho como desenvolvedor de software na [Remessa Online](https://www.remessaonline.com.br).
 - 🎓 Estou cursando **Ciência da Computação** na Faculdade Descomplica!
 - 📫 Meu email é luciano.amancio@outlook.com, fique a vontade para entrar em contato.
 
