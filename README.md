@@ -31,9 +31,6 @@
 
 <div aling="left">
   <img src="https://img.shields.io/badge/go-007d9c.svg?&style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-0468d7.svg?&style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/java-F1502F.svg?&style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/kotlin-F1502F.svg?&style=for-the-badge&logo=oracle&logoColor=white" />
 </div>
 
 ---
